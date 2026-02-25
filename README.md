@@ -6,7 +6,7 @@
 
 <div align="center">
 
-[![42 Lausanne](https://img.shields.io/badge/42%20Lausanne-000000?style=for-the-badge&logo=42&logoColor=white)](https://42lausanne.ch)
+[![42 Luxembourg](https://img.shields.io/badge/42%20Luxembourg-000000?style=for-the-badge&logo=42&logoColor=white)](https://42luxembourg.lu)
 [![GitHub Org](https://img.shields.io/badge/GitHub-42staverni-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/42staverni)
 
 </div>
@@ -15,7 +15,7 @@
 
 ## 👋 About
 
-We are a group of **42 Lausanne** students building open-source tools to make the 42 curriculum easier, faster, and more fun. Our projects are built by students, for students — free and open source.
+We are a group of **42 Luxembourg** students building open-source tools to make the 42 curriculum easier, faster, and more fun. Our projects are built by students, for students — free and open source.
 
 > *"The best way to learn is to build things that help others learn."*
 
@@ -70,7 +70,7 @@ Drop your `libft` folder in the browser and get instant test results — no loca
 | Project | Description | Stack | Status |
 |---|---|---|---|
 | [libft-ghost 👻](https://github.com/42staverni/libft-ghost) | Browser-based libft tester with Valgrind, ASan & norminette | C · Go · SvelteKit · Docker | ✅ Active |
-| [42lsa_ftplace](https://github.com/42staverni/42lsa_ftplace) | Pixel overlay script for 42 Lausanne's ft_place event | JavaScript | 📦 Archived |
+| [42lsa_ftplace](https://github.com/42staverni/42lsa_ftplace) | Pixel overlay script for 42 Luxembourg's ft_place event | JavaScript | 📦 Archived |
 
 ---
 
@@ -88,7 +88,7 @@ Drop your `libft` folder in the browser and get instant test results — no loca
 
 <div align="center">
 
-Made with ❤️ by students of **[42 Lausanne](https://42lausanne.ch)** &nbsp;·&nbsp; [GitHub](https://github.com/42staverni)
+Made with ❤️ by students of **[42 Luxembourg](https://42luxembourg.lu)** &nbsp;·&nbsp; [GitHub](https://github.com/42staverni)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00baff,100:000000&height=100&section=footer" width="100%"/>
 
