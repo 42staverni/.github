@@ -15,7 +15,7 @@
 
 ## 👋 About
 
-We are a group of **42 Luxembourg** students building open-source tools to make the 42 curriculum easier, faster, and more fun. Our projects are built by students, for students — free and open source.
+I am a **42 Luxembourg** student building open-source tools to make the 42 curriculum easier, faster, and more fun. My projects are built by a student, for students — free and open source.
 
 > *"The best way to learn is to build things that help others learn."*
 
@@ -88,7 +88,7 @@ Drop your `libft` folder in the browser and get instant test results — no loca
 
 <div align="center">
 
-Made with ❤️ by students of **[42 Luxembourg](https://42luxembourg.lu)** &nbsp;·&nbsp; [GitHub](https://github.com/42staverni)
+Made with ❤️ by a student of **[42 Luxembourg](https://42luxembourg.lu)** &nbsp;·&nbsp; [GitHub](https://github.com/42staverni)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00baff,100:000000&height=100&section=footer" width="100%"/>
 
